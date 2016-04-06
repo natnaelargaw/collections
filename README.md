@@ -10,11 +10,8 @@
 7. From the play dropdown menu at the bottom right, select stream
 8. In the new windows click next
 9. In the New destination Dropdown menu, select http
-10. click on add and alter the port "default is 8080" and the path we will be written after the port as port/path ...
+10. click on add and alter the port "default is 8080" and the path
 11. click next
 12. select "video- Theora + vorbis(OGG)" from profile dropdown menu
 13. click next then stream
-
-## in your html page alter the code in places IP, Port and path are available. For example, "192.168.1.44--> your ip", 8081--> the port that u used during stream config and "test --> the path that u gave it to ur stream dest."
-
-Go 
+In your html page alter values for IP, Port and path. For example, "192.168.1.44--> your ip", 8081--> the port that u used during stream config and "test --> the path that u gave it to ur stream destination."
